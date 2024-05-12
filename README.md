@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Djounaid Laib</h1>
-<h3 align="center">I'am a data scientist who is also interested in backend developement</h3>
+<h3 align="center">I'am a Data Engineer </h3>
 
 <img align='right' alt='Skills ?' width='400' src = 'https://github.com/Mohamed-Djounaid/Mohamed-Djounaid/blob/main/giphy.gif'/>
 
