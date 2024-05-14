@@ -5,9 +5,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=laib-djounaid&label=Profile%20views&color=0e75b6&style=flat" alt="laib-djounaid" /> </p>
 
-- 📫 How to reach me **Mohamed.djounaid.laib@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
+
+**Mohamed.djounaid.laib@gmail.com**
+- 
 <p align="left">
 </p>
 
