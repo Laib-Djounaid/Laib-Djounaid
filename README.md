@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm I'm Mohamed Djounaid Laib 🇩🇿 🇵🇸</h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=&pause=1000&color=1CFF00&random=false&width=435&lines=Big+Data+Engineer;Team+player;Full+time+learner" alt="Typing SVG" /></a>
+<h3 align="center">I am a :</h3>
+<p align="center">
+  <!-- >-->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Briem+Hand&size=40&pause=1000&color=1EA0FF&center=true&vCenter=true&random=false&width=435&lines=Big+Data+Engineer;Team+player;Full+time+learner" alt="Typing SVG" /></a>
+</p>
+
 <img align='right' alt='Skills ?' width='400' src = 'https://github.com/Mohamed-Djounaid/Mohamed-Djounaid/blob/main/giphy.gif'/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=laib-djounaid&label=Profile%20views&color=0e75b6&style=flat" alt="laib-djounaid" /> </p>
