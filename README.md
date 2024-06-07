@@ -2,7 +2,7 @@
 <h3 align="center">I am a :</h3>
 <p align="center">
   <!-- >-->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Briem+Hand&size=40&pause=1000&color=20CAAC&center=true&vCenter=true&random=false&width=435&lines=Big+Data+Engineer;Team+player;Full+time+learner" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Mononoki&size=40&pause=1000&color=20CAAC&center=true&vCenter=true&random=false&width=435&lines=Big+Data+Engineer;Team+player;Full+time+learner" alt="Typing SVG" /></a>
 </p>
 
 <img align='right' alt='Skills ?' width='400' src = 'https://github.com/Mohamed-Djounaid/Mohamed-Djounaid/blob/main/giphy.gif'/>
